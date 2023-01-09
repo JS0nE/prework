@@ -1,0 +1,52 @@
+{
+  "Account0": {
+    "Credentials": {
+      "Name": "Jack W",
+      "CC": 4111111111111111,
+      "PIN": 1111,
+      "SSN": 100101000
+    },
+    "Checking": {
+      "AccountNumber": 100000000000,
+      "RoutingNumber": 111111111,
+      "Balance": 8231.96,
+      "Purchase_Log": {
+        "Item0": {
+          "Cost": 0,
+          "Vendor": "Example Inc.",
+          "Item": "New Itemizer"
+        },
+        "Item1": {
+          "Cost": 4.99,
+          "Vendor": "Apple Inc.",
+          "Item": "AppleSubscription"
+        }
+      }
+    }
+  },
+  "Account1": {
+    "Credentials": {
+      "Name": "David R",
+      "CC": 4222222222222222,
+      "PIN": 2222,
+      "SSN": 200202000
+    },
+    "Checking": {
+      "AccountNumber": 200000000000,
+      "RoutingNumber": 222222222,
+      "Balance": 912032.21,
+      "Purchase_Log": {
+        "Item0": {
+          "Cost": 0,
+          "Vendor": "Example Inc.",
+          "Item": "New Itemizer"
+        },
+        "Item1": {
+          "Cost": 7.99,
+          "Vendor": "Mojang",
+          "Item": "Minecraft: PE"
+        }
+      }
+    }
+  }
+}
