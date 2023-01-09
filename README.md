@@ -12,6 +12,6 @@ This is a repository created by *Jason*
 Run this command to execute the application:
 
 
-`python filename.py`
+`python main.py`
 
  
